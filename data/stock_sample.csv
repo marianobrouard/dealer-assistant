@@ -1,0 +1,31 @@
+id,make,model,trim,year,km,price,currency,category,transmission,fuel,status,condition,immediate_delivery
+C001,Volkswagen,Tiguan Allspace,1.4 TSI Comfortline,2019,87500,29500000,ARS,suv,AT,gasoline,available,used,true
+C002,Chevrolet,Spin,1.8 LT,2017,118000,13800000,ARS,van,MT,cng,available,used,true
+C003,Toyota,Yaris,1.5 XLS,2022,46000,24900000,ARS,hatchback,CVT,gasoline,available,used,true
+C004,Toyota,Hilux,2.8 SRV 4x4,2021,72000,38000,USD,pickup,AT,diesel,available,used,true
+C005,Ford,Ranger,3.2 XLT 4x4,2018,125000,26500000,ARS,pickup,MT,diesel,available,used,false
+C006,Volkswagen,Amarok,V6 Highline 4x4,2020,98000,41000000,ARS,pickup,AT,diesel,reserved,used,false
+C007,Fiat,Cronos,1.3 Drive,2023,21000,19800000,ARS,sedan,MT,gasoline,available,used,true
+C008,Fiat,Cronos,1.3 Precision,2026,0,28900000,ARS,sedan,CVT,gasoline,available,new,true
+C009,Peugeot,208,1.6 Allure,2021,55000,17200000,ARS,hatchback,MT,gasoline,available,used,true
+C010,Peugeot,2008,1.6 Feline,2022,39000,27400000,ARS,suv,AT,gasoline,sold,used,false
+C011,Renault,Kangoo,1.6 Confort 5A,2019,101000,12900000,ARS,van,MT,gasoline,available,used,true
+C012,Renault,Duster,1.6 Intens,2020,83000,19500000,ARS,suv,MT,gasoline,available,used,true
+C013,Renault,Sandero,1.6 Stepway,2018,112000,12400000,ARS,hatchback,MT,gasoline,available,used,true
+C014,Chevrolet,Onix,1.2 Premier,2022,34000,20900000,ARS,hatchback,AT,gasoline,available,used,true
+C015,Chevrolet,S10,2.8 LTZ 4x4,2019,109000,27900000,ARS,pickup,AT,diesel,available,used,false
+C016,Chevrolet,Tracker,1.2T Premier,2023,18000,29800000,ARS,suv,AT,gasoline,available,used,true
+C017,Nissan,Frontier,2.3 LE 4x4,2020,91000,33900000,ARS,pickup,AT,diesel,available,used,true
+C018,Nissan,Kicks,1.6 Exclusive,2021,52000,23800000,ARS,suv,CVT,gasoline,available,used,true
+C019,Honda,HR-V,1.8 EXL,2019,90000,25800000,ARS,suv,CVT,gasoline,available,used,true
+C020,Honda,Civic,2.0 EXS,2018,97000,22500000,ARS,sedan,CVT,gasoline,reserved,used,true
+C021,Toyota,Corolla,2.0 XEI,2022,41000,30500000,ARS,sedan,CVT,gasoline,available,used,true
+C022,Toyota,Corolla Cross,2.0 SEG,2023,27000,37900000,ARS,suv,CVT,gasoline,available,used,true
+C023,Citroën,C3,1.6 Feel Pack,2020,68000,14900000,ARS,hatchback,MT,gasoline,available,used,true
+C024,Volkswagen,Polo,1.6 MSI Track,2024,9000,22900000,ARS,hatchback,MT,gasoline,available,used,true
+C025,Volkswagen,Taos,1.4 TSI Highline,2022,33000,34500000,ARS,suv,AT,gasoline,available,used,true
+C026,Ford,EcoSport,2.0 Titanium,2017,105000,15800000,ARS,suv,AT,gasoline,sold,used,false
+C027,Ford,Transit,2.2 Furgon L2,2018,140000,21000000,ARS,van,MT,diesel,available,used,true
+C028,Iveco,Daily,55C16 Chasis,2017,210000,28000000,ARS,truck,MT,diesel,available,used,false
+C029,Yamaha,FZ 25,ABS,2023,6500,3900000,ARS,motorcycle,MT,gasoline,available,used,true
+C030,Jeep,Renegade,1.8 Sport,2018,96000,17500,USD,suv,AT,gasoline,available,used,true

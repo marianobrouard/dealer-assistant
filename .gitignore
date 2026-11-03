@@ -1,0 +1,11 @@
+.env
+.venv/
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# Real stock and customer data never go to git
+data/private/
+evals/reports/
+data/stock_real.csv
