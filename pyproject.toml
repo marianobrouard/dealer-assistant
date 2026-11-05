@@ -9,6 +9,7 @@ dependencies = [
     "langchain-core>=1.7.4",
     "langchain-google-genai>=4.4.2",
     "langgraph>=1.2.19",
+    "mcp>=2.3.0",
     "pydantic>=2.14.2",
     "pydantic-settings>=2.16.2",
     "python-dotenv>=1.2.4",

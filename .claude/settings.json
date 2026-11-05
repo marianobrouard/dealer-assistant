@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "deny": [
+      "Read(./data/private/**)",
+      "Read(./data/stock_real.csv)",
+      "Edit(./data/private/**)",
+      "Write(./data/private/**)"
+    ]
+  }
+}
