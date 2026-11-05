@@ -11,6 +11,10 @@ talks to customers in Spanish.
 - Types: `uv run mypy --strict src tests`
 - Tests (offline, no API keys): `uv run pytest`
 - Chat: `uv run python -m dealer_assistant.cli [--show-tools] [--verbose]`
+- MCP server (stdio, read-only: `search_cars`, `get_car_details`; no API key, reads `STOCK_PATH`):
+  `uv run python -m dealer_assistant.mcp_server`. Register in Claude Code:
+  `claude mcp add dealer-stock -- uv run --directory <this repo> python -m dealer_assistant.mcp_server`
+  (mcp SDK 2.x: `MCPServer`, `ToolError`). Never expose `register_lead`/`handoff_to_human` there.
 - Exam (uses the real model; run one at a time):
   `uv run python -m dealer_assistant.evaluate --name NAME [--repeat 3] [--pause 2] [--only c01,c02]`
 
